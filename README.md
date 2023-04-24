@@ -11,4 +11,5 @@ Forthcoming hack instructions (star/follow the repo so you don't miss the update
 - Copy/OCR text from screen or image (workaround)
 - Voice typing
 - Quick Settings tiles responsive while locked (reverse-engineered)
+- Weather on lockscreen (workaround, + reverse-engineered method TBD)
 - BONUS: Rooted GrapheneOS w/ locked bootloader & Verified Boot (use at your own risk!)
