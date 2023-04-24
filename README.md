@@ -1,2 +1,14 @@
 # GrapheneUX
-You own your phone. You should be able to use it. GrapheneOS is the most secure phone operating system around, but sometimes hardening comes at the cost of usability. This repo is a contains tricks to reimplement some user-friendlier AOSP features, so the risk-benefit decision can be made by *you*, the user, instead of the OS developers.
+
+Forthcoming hack instructions (star/follow the repo so you don't miss the update!)
+- Reinstate pattern unlock!
+- Shizuku system privileges! (non-root)
+- Replace Graphene Camera with Google Camera
+- Double-tap back of phone (reverse-engineered)
+- Reinstate *Now Playing*
+- Reinstate *Call Screening* (WIP)
+- Reinstate *Hold For Me* (WIP)
+- Copy/OCR text from screen or image (workaround)
+- Voice typing
+- Quick Settings tiles responsive while locked (reverse-engineered)
+- BONUS: Rooted GrapheneOS w/ locked bootloader & Verified Boot (use at your own risk!)
