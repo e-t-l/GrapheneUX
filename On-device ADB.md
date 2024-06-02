@@ -1,4 +1,4 @@
-Running ADB commands locally
+# Running ADB commands locally
 
 1. Install, pair, and start Shizuku (https://github.com/e-t-l/GrapheneUX/blob/main/Shizuku%20system%20privileges.md)
 2. Install Ashell (https://f-droid.org/en/packages/in.sunilpaulmathew.ashell/)
