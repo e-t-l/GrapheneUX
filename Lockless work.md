@@ -4,7 +4,7 @@
 2. Connect ADB from a computer, or by using an [on-device ADB shell](https://github.com/e-t-l/GrapheneUX/blob/main/On-device%20ADB.md)
 3. Double-check the User ID of your Work Profile. (It's usually `10`, but you can check by running the ADB command `pm list users`).
 3. In an ADB shell, execute: `locksettings clear --old {old pin/password} --user {work profile user ID}`.
-4. Note: You can always set the lock to a PIN/Password in settings, or [even to Pattern using ADB](https://github.com/e-t-l/GrapheneUX/blob/main/Pattern lock.md) (using the `--user {userID}` command flag.)
+4. Note: You can always set the lock to a PIN/Password in settings, or [even to Pattern using ADB](https://github.com/e-t-l/GrapheneUX/blob/main/Pattern%20lock.md) (using the `--user {userID}` command flag.)
 
 ### Example
 If your work profile's user ID is `10` and you set its PIN to `0000`, you would enter...
