@@ -2,3 +2,4 @@
 
 1. [Install Shizuku](https://github.com/e-t-l/GrapheneUX/blob/main/Shizuku%20system%20privileges.md)
 2. Install [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod)
+3. Follow in-app instructions
