@@ -9,6 +9,7 @@ Forthcoming hack instructions (star/follow the repo so you don't miss the update
 - [ ] Reinstate *Call Screening* (WIP)
 - [ ] Reinstate *Hold For Me* (WIP)
 - [ ] Copy/OCR text from screen or image (workaround)
+- [X] Disable the Work Profile's lock PIN.
 - [ ] Voice typing
 - [ ] Quick Settings tiles responsive while locked (reverse-engineered)
 - [ ] Weather on lockscreen (workaround, + reverse-engineered method TBD)
