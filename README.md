@@ -11,6 +11,7 @@ Forthcoming hack instructions (star/follow the repo so you don't miss the update
 - [X] [Copy/OCR text from screen or image](https://github.com/e-t-l/GrapheneUX/blob/main/Copy%20text%20%2B%20OCR.md)
 - [X] [Disable the Work Profile's lock PIN](https://github.com/e-t-l/GrapheneUX/blob/main/Lockless%20work.md)
 - [ ] Voice typing
+- [ ] Open links from Work/Private apps in Owner profile browser (workaround)
 - [X] [Full-brightness flashlight (brighter than on stock Pixel OS!)](https://github.com/e-t-l/GrapheneUX/blob/main/Brighter%20flashlight.md)
 - [ ] Quick Settings tiles responsive while locked (reverse-engineered)
 - [ ] Weather widget on lockscreen
